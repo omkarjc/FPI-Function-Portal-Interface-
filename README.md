@@ -14,7 +14,7 @@ PROGRAMMING BY PREMADE MODULES GOT EASIER
        
    ## Usage
    JUST Decide parameters to passover to the function
-   
+   [checkout functions and parameters on](list.md)
    ### Python
             
             from base import spydoc
