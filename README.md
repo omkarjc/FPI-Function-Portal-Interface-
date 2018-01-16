@@ -1,9 +1,11 @@
 # FPI-Function-Portal-Interface
 
 
-      # easy way to use various functions throughout languages
-          #CURRENTLY SUPPORTS
-            + PYTHON
-     
+      PROGRAMMING BY PREMADE MODULES GOT EASIER
+      
+          CURRENTLY SUPPORTS
+               PYTHON
+               PHP    
      --------------------------------------------------------------------------------------------------------------------------
         
+            
