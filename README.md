@@ -3,8 +3,7 @@
 
       PROGRAMMING BY PREMADE MODULES GOT EASIER
       
-          __ CURRENTLY SUPPORTS __
-          
+          CURRENTLY SUPPORTS           
           _ PYTHON _
           _ PHP _
           
