@@ -3,11 +3,9 @@
 
       PROGRAMMING BY PREMADE MODULES GOT EASIER
       
-          CURRENTLY SUPPORTS           
-          _ PYTHON _
-          _ PHP _
+       **SUPPORTS**
+        PHP
+        Python
           
-          
-     --------------------------------------------------------------------------------------------------------------------------
-        
+   ## Installation       
             
