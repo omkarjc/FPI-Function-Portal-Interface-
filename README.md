@@ -1,14 +1,16 @@
 # FPI-Function-Portal-Interface
 
 
-      PROGRAMMING BY PREMADE MODULES GOT EASIER
+PROGRAMMING BY PREMADE MODULES GOT EASIER
       
    ### Supports
-        - PHP
-        - Python
-          
+   
+   - PHP
+   - PYTHON
+   
    ## Installation       
-       Download/Clone the directory
+   
+   Download/Clone the directory
        
    ## Usage
    JUST Decide parameters to passover to the function
