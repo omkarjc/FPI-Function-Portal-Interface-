@@ -4,8 +4,8 @@
       PROGRAMMING BY PREMADE MODULES GOT EASIER
       
    ### Supports
-        PHP
-        Python
+        - PHP
+        - Python
           
    ## Installation       
        Download/Clone the [fpi] folder
