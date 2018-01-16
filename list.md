@@ -1,7 +1,7 @@
 # FPI
  
-   |     **FUNCTION NAME**          |         **PARAMETERS**          |	
-   --------------------------------------------------------------------	 
-   1.	add		   	        p1 = add
-					p2="number1"	
-					p3="number2"																							
+   ### add
+   **parameters**
+   1.add
+   2.number1 to add
+   3.number2 to add
