@@ -8,5 +8,5 @@
         Python
           
    ## Installation       
-       Download/Clone the [fpi] folder
+       Download/Clone the [ fpi ] folder
        
