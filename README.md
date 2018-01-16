@@ -8,5 +8,16 @@
         - Python
           
    ## Installation       
-       Download/Clone the [fpi] folder
+       Download/Clone the directory
        
+   ## Usage
+   JUST Decide parameters to passover to the function
+   
+   ### Python
+            
+            from base import spydoc
+            print(spydoc.fpi("parameter1;parameter2;parameter3...."))
+       
+   ### PHP 
+            include("base/spydoc.php")
+            fpi("parameter1;parameter2;parameter3....")
